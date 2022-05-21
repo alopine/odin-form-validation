@@ -1,0 +1,32 @@
+{
+  "name": "odin-form-validation",
+  "version": "1.0.0",
+  "description": "Odin Odin Form Validation is a website built for the Odin Project's [[Form Validation with JavaScript Project](https://www.theodinproject.com/lessons/node-path-javascript-form-validation-with-javascript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alopine/odin-form-validation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alopine/odin-form-validation/issues"
+  },
+  "homepage": "https://github.com/alopine/odin-form-validation#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "prettier": "2.6.2",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
